@@ -41,6 +41,12 @@
 	</dict>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>Privacy - PhotoLibrary  Usage Description</key>
+	<string>アルバムへのアクセスを可</string>
+	<key>NSCameraUsageDescription</key>
+	<string>カメラへのアクセスを可</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>アルバムへの画像の保存を許可</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
